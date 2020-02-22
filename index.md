@@ -2,7 +2,7 @@
 
 ## About Me
 
-I am currently a student at the University of Cambridge studying MPhil Advanced Computer Science, focusing on Natural Language Processing. I am due to graduate in July 2020. I am a 2019/2020 DeepMind Scholar.
+I am currently a student at the [University of Cambridge](https://www.cam.ac.uk/) studying MPhil Advanced Computer Science, focusing on Natural Language Processing. I am supervised by [Ryan Cotterell](https://rycolab.github.io/). I am due to graduate in July 2020. I am a 2019/2020 [DeepMind Scholar](https://www.cambridgetrust.org/scholarships/deepmind-cambridge-scholarship/).
 
 I'm interested in techniques for low-resource NLP, gender bias in NLP and annotation of linguistic data, among other things. 
 
