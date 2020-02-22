@@ -1,8 +1,5 @@
 # Jennifer C. White
 
-![alt text](../images/JenwithPenguin.jpeg "This is me :)")
-
-
 ## About Me
 
 I am currently a student at the University of Cambridge studying MPhil Advanced Computer Science, focusing on Natural Language Processing. I am due to graduate in July 2020. I am a 2019/2020 DeepMind Scholar.
