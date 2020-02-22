@@ -9,3 +9,7 @@ Previously, I graduated with an Integrated Master's Degree in Mathematics and Ph
 ## Social Media
 
 You can find me on Twitter @[JenniferCWhite](https://www.twitter.com/JenniferCWhite).
+
+## CV
+
+You can read my CV [here]("../files/CV.pdf").
