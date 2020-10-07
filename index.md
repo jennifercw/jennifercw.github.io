@@ -14,4 +14,4 @@ You can find me on Twitter @[JenniferCWhite](https://www.twitter.com/JenniferCWh
 
 ## CV
 
-You can read my CV [here](../files/CV.pdf).
+You can read my CV [here](../files/JenniferWhite_CV.pdf).
