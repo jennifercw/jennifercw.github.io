@@ -2,7 +2,7 @@
 
 ## About Me
 
-I am currently a PhD Computer Science student at the [University of Cambridge](https://www.cam.ac.uk/), focusing on Natural Language Processing. I am co-supervised by Simone Teufel (University of Cambridge) and [Ryan Cotterell](https://rycolab.github.io/) (ETH Zurich). I am currently funded by the [Cambridge ESRC DTP](https://www.esrcdtp.group.cam.ac.uk/). I previously completed an MPhil in Advanced Computer Science at Cambridge, achieving a Distinction. During this time I was funded by a 2019/2020 [DeepMind Scholarship](https://www.cambridgetrust.org/scholarships/deepmind-cambridge-scholarship/).
+I am currently a PhD Computer Science student at the [University of Cambridge](https://www.cam.ac.uk/), focusing on Natural Language Processing. I am co-supervised by [Simone Teufel](https://www.cl.cam.ac.uk/~sht25/) (University of Cambridge) and [Ryan Cotterell](https://rycolab.github.io/) (ETH Zurich). I am currently funded by the [Cambridge ESRC DTP](https://www.esrcdtp.group.cam.ac.uk/). I previously completed an MPhil in Advanced Computer Science at Cambridge, achieving a Distinction. During this time I was funded by a 2019/2020 [DeepMind Scholarship](https://www.cambridgetrust.org/scholarships/deepmind-cambridge-scholarship/).
 
 I'm interested in interpretability of NLP models, techniques for low-resource NLP, gender bias in NLP and annotation of linguistic data, among other things. 
 
