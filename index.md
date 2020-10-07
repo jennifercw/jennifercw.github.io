@@ -8,6 +8,8 @@ I'm interested in interpretability of NLP models, techniques for low-resource NL
 
 Previously, I graduated with an Integrated Master's Degree in Mathematics and Physics from the University of Warwick in 2016. My focus was on Algebraic Geometry. Following this, I worked as a Software Engineer for 3 years before returning to university.
 
+In my spare time, I like studying more languages than any individual should attempt at once, eating katsu curry and travelling (when the world is not in a state of lockdown).
+
 ## Social Media
 
 You can find me on Twitter @[JenniferCWhite](https://www.twitter.com/JenniferCWhite).
