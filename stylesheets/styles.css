@@ -8,6 +8,15 @@ body {
   color: rgb(33,150,243);
 }
 
+.pagetitle {
+  color: rgb(33,150,243);
+}
+
+.subtitle {
+  color: rgb(33,150,243);
+  font-size: 20px;
+}
+
 .subhead {
   color: rgb(33,150,243);
 }
@@ -31,4 +40,29 @@ a:hover {
   content: "";
   clear: both;
   display: table;
+}
+
+.publist {
+  list-style: none;
+  margin-left: -20px;
+}
+
+.pub {
+  padding-bottom: 10px;
+}
+
+.authors {
+  font-weight: bold;
+}
+
+.papertitle {
+  color: rgb(3,169,244);
+}
+
+.conference {
+  font-style: italic;
+}
+
+.year {
+  font-style: italic;
 }
