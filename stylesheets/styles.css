@@ -51,6 +51,14 @@ a:hover {
   padding-bottom: 10px;
 }
 
+.linklist {
+  list-style: disc;
+}
+
+.link {
+  padding-bottom: 5px;
+}
+
 .authors {
   font-weight: bold;
 }
