@@ -53,7 +53,7 @@ a:hover {
 
 .linklist {
   list-style: disc;
-  padding-top: 5px;
+  margin-top: 0;
 }
 
 .authors {
