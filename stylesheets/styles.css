@@ -53,6 +53,7 @@ a:hover {
 
 .linklist {
   list-style: disc;
+  margin-before: 1em;
 }
 
 .link {
