@@ -157,7 +157,8 @@ a:active {
 }
 
 .icon-link:hover {
-  transform: rotate(5deg)
+  transform: rotate(5deg);
+  filter: hue-rotate(-185deg);
 }
 
 .icon-img {
