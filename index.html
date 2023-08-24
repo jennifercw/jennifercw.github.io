@@ -12,7 +12,7 @@
     </style>
     <style data-tag="default-style-sheet">
       html {
-        font-family: Inter;
+        font-family: Quattrocento;
         font-size: 16px;
       }
 
@@ -23,8 +23,8 @@
         text-transform: none;
         letter-spacing: normal;
         line-height: 1.15;
-        color: var(--dl-color-gray-black);
-        background-color: var(--dl-color-gray-white);
+        color: var(--dark-gray);
+        background-color: var(--off-white);
 
       }
     </style>
@@ -47,39 +47,37 @@
   </head>
   <body>
     <div>
-      <link href="./index.css" rel="stylesheet" />
+      <div class="page-container">
+        <div class="name-container">
+          <span class="name-text">Jennifer C. White</span>
+        </div>
+        <div class="nav-bar">
+          <div class="link-container">
+            <a href="#aboutme" class="navlink">About Me</a>
+          </div>
+          <div class="link-container">
+            <a href="#publications" class="navlink">Publications</a>
+          </div>
+          <div class="link-container">
+            <a href="#links" class="navlink">Links</a>
+          </div>
+        </div>
+        <div class="center-container">
+          <div class="lhs-container">
+            <br/>
+            <br/>
+            <div class="text-section">
+            <h1 id="aboutme" class="section-title">About Me</h1>
 
-      <div class="home-container">
-        <div class="home-container01">
-          <span class="home-text">Jennifer C. White</span>
-        </div>
-        <div class="home-container02">
-          <div class="home-container03">
-            <a href="#aboutme" class="home-link">About Me</a>
-          </div>
-          <div class="home-container04">
-            <a href="#publications" class="home-link01">Publications</a>
-          </div>
-          <div class="home-container05">
-            <a href="#links" class="home-link02">Links</a>
-          </div>
-        </div>
-        <div class="home-container06">
-          <div class="home-container07">
-            <div class="home-container08"></div>
-            <h1 id="aboutme" class="home-text01">About Me</h1>
-            <span class="home-text02">
               <br />
-              <span>I am currently a PhD Computer Science student at the</span>
+              I am currently a PhD Computer Science student at the
               <a
                 href="https://www.cam.ac.uk/"
                 target="_blank"
                 rel="noreferrer noopener"
-                class="home-link03"
               >
                 University of Cambridge
               </a>
-              <span>
                 focusing on Natural Language Processing (NLP). I am interested
                 in understanding the inductive biases of architectures used in
                 NLP and how we might use inductive biases as a tool to improve
@@ -88,202 +86,170 @@
                 difficult to acquire through current standard training methods,
                 such as the pragmatics of communication, the manipulation of
                 semantics, and the incorporation of multi-modal data.
-              </span>
               <br />
               <br />
-              <span>I am co-supervised by</span>
+              I am co-supervised by
               <a
                 href="https://www.cl.cam.ac.uk/~sht25/"
                 target="_blank"
                 rel="noreferrer noopener"
-                class="home-link04"
               >
                 Simone Teufel
               </a>
-              <span>(University of Cambridge) and</span>
+              (University of Cambridge) and
               <a
                 href="https://rycolab.github.io/"
                 target="_blank"
                 rel="noreferrer noopener"
-                class="home-link05"
               >
                 Ryan Cotterell
               </a>
-              <span>
                 (ETH Zurich). I previously completed an MPhil in Advanced
                 Computer Science at Cambridge, achieving a Distinction. During
                 this time I was funded by a 2019/2020
-              </span>
               <a
                 href="https://www.cst.cam.ac.uk/deepmind-scholars-cambridge"
                 target="_blank"
                 rel="noreferrer noopener"
-                class="home-link06"
               >
                 DeepMind Scholarship
               </a>
-              <span>.</span>
+              .
               <br />
               <br />
-              <span>
                 Previously, I graduated with an Integrated Master’s Degree in
                 Mathematics and Physics from the University of Warwick in 2016.
                 My focus was on Algebraic Geometry. Following this, I worked as
                 a Software Engineer for 3 years.
-              </span>
               <br />
               <br />
-              <span>You can read my CV</span>
+              You can read my CV
               <a
                 href="./files/JenniferWhite_CV.pdf"
                 target="_blank"
                 rel="noreferrer noopener"
-                class="home-link07"
               >
                 here
               </a>
-              <span>.</span>
+              .
               <br />
               <br />
-            </span>
-            <h1 id="publications" class="home-text21">Publications</h1>
-            <span class="home-text22">
+            </div>
+            <div class="text-section">
+
+            <h1 id="publications" class="section-title">Publications</h1>
               <br />
-              <span>
+
                 <span class="authors"><span class="myname">Jennifer C. White</span> and Ryan Cotterell</span>. 2022. <span class="title">Schrödinger's Bat:
                 Diffusion Models Sometimes Generate Polysemous Words in
                 Superposition</span>. Pre-print.
-              </span>
+
               <a
                 href="https://arxiv.org/pdf/2211.13095.pdf"
                 target="_blank"
                 rel="noreferrer noopener"
-                class="home-link08"
               >
                 [arXiv]
               </a>
-              <span></span>
               <a
                 href="https://github.com/rycolab/diffusion-polysemy"
                 target="_blank"
                 rel="noreferrer noopener"
-                class="home-link09"
               >
                 [code]
               </a>
-              <br class="home-text26" />
-              <br class="home-text27" />
-              <span>
+              <br/>
+              <br/>
                 <span class="authors"><span class="myname">Jennifer C. White</span> and Ryan Cotterell</span>. 2022. <span class="title">Equivariant
                 Transduction Through Invariant Alignment</span>. In Proceedings of the
                 29th International Conference on Computational Linguistics.
                 (Awarded Outstanding Paper)
-              </span>
               <a
                 href="https://arxiv.org/pdf/2209.10926.pdf"
                 target="_blank"
                 rel="noreferrer noopener"
-                class="home-link10"
               >
                 [arXiv]
               </a>
-              <span></span>
               <a
                 href="https://aclanthology.org/2022.coling-1.412/"
                 target="_blank"
                 rel="noreferrer noopener"
-                class="home-link11"
               >
                 [ACL Anthology]
               </a>
-              <span></span>
               <a
                 href="https://github.com/rycolab/equivariant-transduction"
                 target="_blank"
                 rel="noreferrer noopener"
-                class="home-link12"
               >
                 [code]
               </a>
-              <br class="home-text31" />
-              <br class="home-text32" />
-              <span>
+              <br />
+              <br  />
                 <span class="authors"><span class="myname">Jennifer C. White</span> and Ryan Cotterell</span>. 2021. <span class="title">Examining the
                 Inductive Bias of Neural Language Models with Artificial
                 Languages</span>. In Proceedings of the 59th Annual Meeting of the
                 Association for Computational Linguistics.
-              </span>
               <a
                 href="https://arxiv.org/pdf/2106.01044.pdf"
                 target="_blank"
                 rel="noreferrer noopener"
-                class="home-link13"
               >
                 [arXiv]
               </a>
-              <span></span>
+
               <a
                 href="https://aclanthology.org/2021.acl-long.38/"
                 target="_blank"
                 rel="noreferrer noopener"
-                class="home-link14"
               >
                 [ACL Anthology]
               </a>
-              <span></span>
+
               <a
                 href="https://github.com/rycolab/artificial-languages"
                 target="_blank"
                 rel="noreferrer noopener"
-                class="home-link15"
               >
                 [code]
               </a>
-              <br class="home-text36" />
-              <br class="home-text37" />
-              <span>
+              <br  />
+              <br  />
                 <span class="authors"><span class="myname">Jennifer C. White</span>, Tiago Pimentel, Naomi Saphra, and Ryan
                 Cotterell</span>. 2021. <span class="title">A Non-Linear Structural Probe</span>. In Proceedings
                 of the 2021 Conference of the North American Chapter of the
                 Association for Computational Linguistics: Human Language
                 Technologies.
-              </span>
               <a
                 href="https://arxiv.org/pdf/2105.10185.pdf"
                 target="_blank"
                 rel="noreferrer noopener"
-                class="home-link16"
               >
                 [arXiv]
               </a>
-              <span></span>
               <a
                 href="https://aclanthology.org/2021.naacl-main.12/"
                 target="_blank"
                 rel="noreferrer noopener"
-                class="home-link17"
               >
                 [ACL Anthology]
               </a>
-              <br class="home-text40" />
-              <br class="home-text41" />
-              <span>
+              <br />
+              <br />
                 <span class="authors">Tian Xu, <span class="myname">Jennifer C. White</span>, Sinan Kalkan, and Hatice Gunes</span>.
                 2020. <span class="title">Investigating Bias and Fairness in Facial Expression
                 Recognition</span>. In Proceedings of the 16th European Conference on
                 Computer Vision Workshops.
-              </span>
               <a
                 href="https://arxiv.org/pdf/2007.10075.pdf"
                 target="_blank"
                 rel="noreferrer noopener"
-                class="home-link18"
               >
                 [arXiv]
               </a>
-              <br class="home-text43" />
-              <br class="home-text44" />
-              <span>
+              <br  />
+              <br  />
                 <span class="authors">Ekaterina Vylomova, <span class="myname">Jennifer C. White</span>, Elizabeth Salesky,
                 Sabrina J Mielke, Shijie Wu, Edoardo Ponti, Rowan Hall Maudslay,
                 Ran Zmigrod, Josef Valvoda, Svetlana Toldova, Francis Tyers,
@@ -296,97 +262,95 @@
                 Diverse Morphological Inflection</span>. In Proceedings of the 17th
                 SIGMORPHON Workshop on Computational Research in Phonetics,
                 Phonology, and Morphology.
-              </span>
               <a
                 href="https://arxiv.org/pdf/2006.11572.pdf"
                 target="_blank"
                 rel="noreferrer noopener"
-                class="home-link19"
               >
                 [arXiv]
               </a>
-              <span></span>
               <a
                 href="https://aclanthology.org/2020.sigmorphon-1.1/"
                 target="_blank"
                 rel="noreferrer noopener"
-                class="home-link20"
               >
                 [ACL Anthology]
               </a>
               <br />
               <br />
-            </span>
-            <h1 id="links" class="home-text49">Links</h1>
+            </div>
+            <div class="text-section">
+            <h1 id="links" class="section-title">Links</h1>
             <br />
-            <div class="home-container09">
+            <div class="icon-container">
               <a
                 href="https://www.twitter.com/JenniferCWhite"
                 target="_blank"
-                rel="noreferrer noopener"
-                class="home-link21"
+                rel="noreferrer noopener" class="icon-link"
               >
                 <img
                   src="./imgs/twitter.png"
                   alt="image"
-                  class="home-image"
+                  class="icon-img"
                 />
               </a>
               <a
                 href="https://github.com/jennifercw"
                 target="_blank"
-                rel="noreferrer noopener"
-                class="home-link22"
+                rel="noreferrer noopener" class="icon-link"
               >
                 <img
                   src="./imgs/github.png"
                   alt="image"
-                  class="home-image1"
+                  class="icon-img"
                 />
               </a>
               <a
                 href="https://scholar.google.com/citations?user=HR7sOUMAAAAJ"
                 target="_blank"
-                rel="noreferrer noopener"
-                class="home-link23"
+                rel="noreferrer noopener" class="icon-link"
               >
                 <img
                   src="./imgs/scholar.png"
                   alt="image"
-                  class="home-image2"
+                  class="icon-img"
                 />
               </a>
               <a
                 href="https://www.linkedin.com/in/jennifercrwhite/"
                 target="_blank"
-                rel="noreferrer noopener"
-                class="home-link24"
+                rel="noreferrer noopener" class="icon-link"
               >
                 <img
                   src="./imgs/linkedin.png"
                   alt="image"
-                  class="home-image3"
+                  class="icon-img"
                 />
               </a>
               <a
                 href="https://aclanthology.org/people/j/jennifer-c-white/"
                 target="_blank"
-                rel="noreferrer noopener"
-                class="home-link25"
+                rel="noreferrer noopener" class="icon-link"
               >
                 <img
                   src="./imgs/acl.png"
                   alt="image"
-                  class="home-image4"
+                  class="icon-img"
                 />
               </a>
             </div>
+            </div>
+            <br/>
+            <br/>
+            <br/>
+            <div class="spacer"></div>
           </div>
-          <div class="home-container10">
+          <div class="rhs-container">
             <img
               src="./imgs/JenniferWhite.jpg"
               alt="image"
-              class="home-image5"
+              class="self-photo"
+              title="A photo of me"
             />
           </div>
         </div>
